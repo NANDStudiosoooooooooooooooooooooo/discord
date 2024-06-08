@@ -41,7 +41,7 @@ function updatePresence() {
   });
 }
 
-const token = 'MTI0ODk0MTkwNjE4OTIyMjA0OA.G3woyR.cuFZOSby90kLANn5g-sBTzSnMA4dAE9jor0Yow';
+
 //const token = process.env.DISCORD_BOT_TOKEN;
 
 client.once('ready', async () => {
